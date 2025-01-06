@@ -2,8 +2,6 @@
 
 Dataset Link : https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing
 
-Here's a **comprehensive report** for your A/B Testing project, formatted based on the uploaded PDF and provided results:
-
 ---
 
 ## **A/B Testing for Mobile Game User Retention**  
